@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/psboyce/alpine
-	branch = origin
+	branch = master
 	commit = 9baa1512f08becb45c031ceeca6d14d47cad7d9f
-	parent = a0c4806a950132b282988c15eb56ce47de489534
+	parent = 0451023d9ce02299e6968af18e6e42fea5ad3a8e
 	cmdver = 0.3.1
