@@ -7,5 +7,5 @@
 	remote = https://github.com/psboyce/alpine
 	branch = master
 	commit = 9baa1512f08becb45c031ceeca6d14d47cad7d9f
-	parent = 0451023d9ce02299e6968af18e6e42fea5ad3a8e
+	parent = 815063f8dd1974a519516e4fb1211a83d7ffcfbd
 	cmdver = 0.3.1
